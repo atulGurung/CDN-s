@@ -1,2 +1,2 @@
-# CDN-s
+# CDN's
 Learning Code
